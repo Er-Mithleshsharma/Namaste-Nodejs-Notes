@@ -1,4 +1,4 @@
-# Namaste Node.js - Video 1 Summary
+# Namaste Node.js - Episode 1 Summary
 
 ## Runtime Environment
 - **Node.js** is a JavaScript runtime built on Chrome's V8 JavaScript engine.
