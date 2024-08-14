@@ -5,11 +5,11 @@
 
 To import a function from a module, use the \`require\` function. Here's an example:
 
-\`\`\`javascript
+```javascript
 // In file app.js
 const greet = require('./greet');
 console.log(greet('World')); // Output: Hello, World!
-\`\`\`
+```
 
 ## Exporting Multiple Functions/Variables
 
@@ -48,12 +48,12 @@ const publicData = 'visible';
 module.exports = publicData;
 \`\`\`
 
-\`\`\`javascript
+```javascript
 // In file app.js
 const data = require('./data');
 console.log(data); // Output: visible
 console.log(secret); // Error: secret is not defined
-\`\`\`
+```
 
 In the example above, \`secret\` is not accessible outside \`data.js\` because it was not exported using \`module.exports\`.
 
