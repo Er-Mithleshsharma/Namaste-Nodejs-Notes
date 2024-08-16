@@ -11,3 +11,5 @@ The **V8 engine** is an open-source JavaScript engine developed by Google, prima
 ## 3. Node.js Code Conversion: High-Level to Machine Code
 
 JavaScript is a high-level, interpreted language that needs to be converted into machine code for execution by the CPU. In Node.js, this conversion process is managed by the V8 engine. The process begins with **parsing**, where the V8 engine reads and checks the JavaScript code for syntax errors, converting it into an Abstract Syntax Tree (AST). This AST is then transformed into an **Intermediate Representation (IR)**, which is a lower-level, platform-independent form of the code. Finally, the IR is converted into machine code through **Just-In-Time (JIT) compilation**. This machine code is executed directly by the CPU, allowing the Node.js application to run efficiently. The V8 engine continuously optimizes this process, adjusting the machine code based on runtime performance data, which ensures the application runs as quickly as possible.
+
+- please star the Repository if you liked it :)

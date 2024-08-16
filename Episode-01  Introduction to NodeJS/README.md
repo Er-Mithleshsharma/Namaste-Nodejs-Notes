@@ -45,3 +45,5 @@
 
 ## Current State (2024)
 - Node.js continues to be widely used, with a rich history and a strong community behind it.
+
+- please star the Repository if you liked it :)
