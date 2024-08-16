@@ -10,7 +10,7 @@ Feel free to contribute or use these notes as a reference for your learning jour
 
 ## Table of Contents
 
-1. [Episode-01 | Introduction to NodeJS](#episode-01--introduction-to-nodejs)
+1. [Episode-01 | Introduction to NodeJS](https://github.com/Er-Mithleshsharma/Namaste-Nodejs-Notes/tree/main/Episode-01%20%20Introduction%20to%20NodeJS)
 2. [Episode-02 | JS on Server](#episode-02--js-on-server)
 3. [Episode-03 | Let's write code](#episode-03--lets-write-code)
 4. [Episode-04 | module.export & require](#episode-04--moduleexport--require)
